@@ -1,5 +1,2 @@
 # Hello-World
-public class First{
-public void print(){
-System.out.println("hello world");
-}}
+I sanat sikarwar studies in class 9th
