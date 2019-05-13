@@ -1,2 +1,5 @@
 # Hello-World
-My first Repository
+public class First{
+public void print(){
+System.out.println("hello world");
+}}
